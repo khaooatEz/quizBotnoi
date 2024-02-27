@@ -1,0 +1,38 @@
+body{
+    display: flex;
+}
+.btn-submit{
+    margin-left: 10px;
+}
+
+h6{
+    margin-left: 10px;
+}
+
+.apiPokemon{
+    margin-left: 50px;
+    line-height: 1.2px;
+}
+
+.cardPoke{
+    background-color: darkseagreen;
+    border: 2px solid black;
+    padding: 5px;
+    padding-right: 70px;
+}
+
+.center{
+    text-align: center;
+}
+
+.btn-api{
+    margin: 5px;
+}
+
+.name{
+    display: flex;
+}
+
+.type{
+    display: flex;
+}
