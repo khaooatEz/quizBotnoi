@@ -36,6 +36,7 @@
           <p>{{type.type.name}}</p>
         </div>
         <div class="status">
+          <p style="font-weight: bold;">Base status :</p>
           <div *ngFor="let status of statusPoke" class="type">
             <p>{{status.stat.name}} = {{status.base_stat}}</p>
           </div>
